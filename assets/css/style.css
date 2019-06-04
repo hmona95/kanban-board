@@ -1,0 +1,22 @@
+{
+    box-sizing: border-box;
+}
+header {
+    height: 200px;
+background-image: linear-gradient(to right, rbga(140, 161, 211, 0.6), rgba(48, 55, 103, 1)),url(./images/background1.jpg');
+clip-path: polygon(50% 50%, 0% 100%, 100% 100%);
+
+body {
+    margin: 10px;
+}
+
+
+
+
+
+
+main  {
+    background: whitesmoke;
+    height: 75vh;
+    
+}
